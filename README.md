@@ -26,5 +26,5 @@ A **Customer Sentiment Analysis project** using Python, TF-IDF, and Logistic Reg
 ### Option 2: Local Jupyter Notebook
 1. Clone the repository:
 ```bash
-git clone https://github.com/<your-username>/IMDB-Sentiment-Analysis.git
+git clone https://github.com/avimistry-3/IMDB-Sentiment-Analysis.git
 cd IMDB-Sentiment-Analysis
